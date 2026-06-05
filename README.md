@@ -1,16 +1,51 @@
 # Omkar
 
-BTech student focused on Embedded Systems and low-level firmware development.
+BTech student and Embedded Systems Developer focused on low-level firmware, RTOS, and PCB design. Specializing in building end-to-end embedded products, bringing hardware designs to life, and writing reliable, optimized firmware.
 
-## Focus
-Embedded firmware • zephyr RTOS • freeRTOS • Bootloaders • PCB Design • Hardware–Software integration
+---
 
-## Tech
-C, Python, STM32, ESP32 (ESP-IDF), FreeRTOS, KiCad , zephyr
+### Focus Areas
 
-## Currently Learning
-Bootloader architecture, OTA systems, RTOS internals, system-level design
+- **Product Development** – Designing end-to-end embedded products, from hardware schematics and multi-layer PCB routing to firmware implementation and validation.
+- **Embedded Firmware** – Writing hardware abstraction layers (HAL), peripheral drivers (I2C, SPI, UART, ADC), and application logic.
+- **Real-Time OS (RTOS)** – Architecting multitasking systems and resource management using Zephyr RTOS and FreeRTOS.
+- **Bootloaders & OTA** – Designing secure bootloaders with dual-slot flash partitioning, OTA update staging, and automated rollback recovery.
 
-## Contact
-Email:nomkar2131@gmail.com
-LinkedIn:www.linkedin.com/in/nomkar
+---
+
+### Technical Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **MCUs & Hardware** | ![STM32](https://img.shields.io/badge/STM32-%23032F62.svg?style=flat&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
+| **Ecosystems & RTOS** | ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-32C850?style=flat&logo=zephyrproject&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%232C3E50.svg?style=flat&logo=freertos&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=flat&logo=espressif&logoColor=white) |
+| **CAD & Engineering** | ![KiCad](https://img.shields.io/badge/KiCad-%23314E87.svg?style=flat&logo=kicad&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) |
+
+---
+
+### Featured Projects
+
+* **[Custom STM32 Bootloader](https://github.com/nomkar24)**
+  * *Dual-slot firmware manager with OTA support and automated safe-rollback mechanism.*
+  * **Tech:** C, STM32 HAL, Flash Memory Control.
+* **[ESP32 mDNS Web Server](https://github.com/nomkar24/mDNS)**
+  * *A lightweight HTTP server showcasing local service discovery (DNS-SD) and zero-configuration networking (`.local`).*
+  * **Tech:** C, ESP-IDF, mDNS, HTTP Server API, Wi-Fi Station.
+* **[Wall-E 2027 Board Design](https://github.com/nomkar24/Wall-E-2027-Board-Design)**
+  * *Custom multi-layer PCB design featuring power regulation circuits and high-performance analog signal processing.*
+  * **Tech:** KiCad, Hardware & Schematic Design.
+* **[ESP32 MIDI Controller](https://github.com/nomkar24)**
+  * *A 24-key velocity-sensitive MIDI controller supporting Bluetooth Low Energy (BLE) and USB connectivity.*
+  * **Tech:** C++, BLE-MIDI, Matrix Scanning.
+* **[Zephyr CUPS Test Application](https://github.com/nomkar24/CUPS_ZEPHYR)**
+  * *A testing sandbox for validating compression and document processing libraries (zlib, PDFio, CUPS) on RTOS.*
+  * **Tech:** C, Zephyr RTOS, Kconfig, CMake, West.
+
+---
+
+### Contact
+
+- **Email:** [nomkar2131@gmail.com](mailto:nomkar2131@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nomkar](https://www.linkedin.com/in/nomkar)
+- **GitHub:** [@nomkar24](https://github.com/nomkar24)
