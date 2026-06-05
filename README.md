@@ -24,26 +24,6 @@ BTech student and Embedded Systems Developer focused on low-level firmware, RTOS
 
 ---
 
-### Featured Projects
-
-* **[Custom STM32 Bootloader](https://github.com/nomkar24)**
-  * *Dual-slot firmware manager with OTA support and automated safe-rollback mechanism.*
-  * **Tech:** C, STM32 HAL, Flash Memory Control.
-* **[ESP32 mDNS Web Server](https://github.com/nomkar24/mDNS)**
-  * *A lightweight HTTP server showcasing local service discovery (DNS-SD) and zero-configuration networking (`.local`).*
-  * **Tech:** C, ESP-IDF, mDNS, HTTP Server API, Wi-Fi Station.
-* **[Wall-E 2027 Board Design](https://github.com/nomkar24/Wall-E-2027-Board-Design)**
-  * *Custom multi-layer PCB design featuring power regulation circuits and high-performance analog signal processing.*
-  * **Tech:** KiCad, Hardware & Schematic Design.
-* **[ESP32 MIDI Controller](https://github.com/nomkar24)**
-  * *A 24-key velocity-sensitive MIDI controller supporting Bluetooth Low Energy (BLE) and USB connectivity.*
-  * **Tech:** C++, BLE-MIDI, Matrix Scanning.
-* **[Zephyr CUPS Test Application](https://github.com/nomkar24/CUPS_ZEPHYR)**
-  * *A testing sandbox for validating compression and document processing libraries (zlib, PDFio, CUPS) on RTOS.*
-  * **Tech:** C, Zephyr RTOS, Kconfig, CMake, West.
-
----
-
 ### Contact
 
 - **Email:** [nomkar2131@gmail.com](mailto:nomkar2131@gmail.com)
