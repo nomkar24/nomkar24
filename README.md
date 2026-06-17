@@ -1,4 +1,4 @@
-# Omkar
+# Omkar Nanajkar <3
 
 BTech student and Embedded Systems Developer focused on low-level firmware, RTOS, and PCB design. Specializing in building end-to-end embedded products, bringing hardware designs to life, and writing reliable, optimized firmware.
 
